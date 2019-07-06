@@ -1,0 +1,3 @@
+[submodule "BoT-NodeJS-SDK"]
+	path = BoT-NodeJS-SDK
+	url = git://github.com/BankingofThings/BoT-NodeJS-SDK.git
